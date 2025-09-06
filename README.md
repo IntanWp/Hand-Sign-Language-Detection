@@ -68,10 +68,6 @@ This project is a web-based American Sign Language (ASL) hand sign recognition s
 
 See [`requirements.txt`](requirements.txt) for the full list.
 
-## License
-
-MIT License (add your license here if different).
-
 ---
 
 **Credits:**  
